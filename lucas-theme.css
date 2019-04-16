@@ -1,4 +1,5 @@
 
+
 body { background: #222; color: #e6e6e6; }
 
 a { color: #949494; }
@@ -1380,9 +1381,9 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
 code { background-color: #000; border: 1px solid #363636; color: #e6e6e6; }
 
-.file_list_item.snippet .snippet_preview { background: #fff; }
+.file_list_item.snippet .snippet_preview { background: #000; }
 
-.snippet_preview, .snippet_body { background: #fff; }
+.snippet_preview, .snippet_body { background: #000; }
 
 .snippet_preview pre, .snippet_body pre { color: #e6e6e6 !important; }
 
